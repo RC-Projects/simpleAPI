@@ -1,6 +1,6 @@
 # Quotes API
 
-This project is a sample project that demonstrates using simple RESTful API for managing quotes. It allows users to create, read, update, and delete quotes, as well as retrieve a random quote.
+This is a sample project that demonstrates using simple RESTful API for managing quotes. It allows users to create, read, update, and delete quotes, as well as retrieve a random quote.
 
 ## Features
 
